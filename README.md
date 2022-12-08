@@ -1,4 +1,4 @@
-# Advent of Code in (pl)sql
+# Advent of Code in PL/pgSQL
 
 This repository contains the code to answer some of the questions in the Advent of Code 2022 (https://adventofcode.com) .
 
